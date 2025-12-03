@@ -71,9 +71,7 @@ const Index = () => {
         {activeSection === 'home' && (
           <div className="space-y-16">
             <section className="text-center space-y-6 py-12">
-              <Badge className="text-lg px-4 py-2" variant="secondary">
-                Подготовка к ОГЭ 2025
-              </Badge>
+              <Badge className="text-lg px-4 py-2" variant="secondary">Подготовка к ОГЭ 2026</Badge>
               <h2 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
                 Сдай ОГЭ по информатике
                 <br />
