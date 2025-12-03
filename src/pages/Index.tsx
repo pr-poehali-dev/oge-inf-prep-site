@@ -77,9 +77,7 @@ const Index = () => {
                 <br />
                 <span className="text-primary">на максимум!</span>
               </h2>
-              <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-                Полный курс подготовки с теорией, практикой и видео-разборами. Все материалы соответствуют программе ОГЭ 2025.
-              </p>
+              <p className="text-xl text-muted-foreground max-w-2xl mx-auto">Полный курс подготовки с теорией, практикой и видео-разборами. Все материалы соответствуют программе ОГЭ 2026.</p>
               <div className="flex gap-4 justify-center pt-4">
                 <Button size="lg" className="text-lg" onClick={() => setActiveSection('theory')}>
                   Начать обучение
