@@ -310,9 +310,7 @@ const Index = () => {
               </div>
             </div>
           </div>
-          <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-            © 2025 ОГЭ Информатика. Все права защищены.
-          </div>
+          <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">© 2026 ОГЭ Информатика. Все права защищены.</div>
         </div>
       </footer>
     </div>
